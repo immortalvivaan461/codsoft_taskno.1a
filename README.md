@@ -3,7 +3,7 @@
 This is a simple personal portfolio website created using HTML and CSS. It showcases a developer's profile, projects, skills, and contact details. This project is ideal for beginners looking to practice frontend development and build their online presence.
 
 🔗 Live Demo:
-🌐 https://immortalvivaan461.github.io/basic_portfolio
+🌐 https://immortalvivaan461.github.io/codsoft_taskno.1a/
 
 🛠️ Tech Stack:
 - HTML5 – For structuring the web page
