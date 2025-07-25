@@ -61,7 +61,7 @@ h1 {
     /* background-color: gray; */
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img/IMG_20240406_172143-02.jpeg);
     background-position: center;
-    background-attachment: fixed;
+    background-attachment: scroll;
     background-repeat: repeat;
     background-size: cover;
 }
